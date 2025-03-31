@@ -1,6 +1,6 @@
 # SHA Playground
 
-<img src="/api/placeholder/100/100" alt="SHA Playground Logo" align="right" />
+<img src="resources/images/sha.png" alt="SHA Playground Logo" align="right" width="100" />
 
 **Author:** Jayabrota Banerjee  
 **Course:** CSBS, 3rd Year  
